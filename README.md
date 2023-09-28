@@ -10,6 +10,7 @@
 - AlisInjector x86
 # Currently on the list:
 - Legendware V3
+- Monolith
 - LambdaHook V2
 - Weave V2
 - Weave V2.5
