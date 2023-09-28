@@ -13,6 +13,8 @@
 - Monolith
 - LambdaHook V2
 - Weave V2
+- Monolith
+- Rawetrip
 - Weave V2.5
 - Plaguecheat V5
 - Aimware.pl V5.1.13
