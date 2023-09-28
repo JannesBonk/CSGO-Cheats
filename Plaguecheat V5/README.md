@@ -1,4 +1,4 @@
-## How to inject
+# How to inject
 1) inject steam.dll into the steam process
 2) launch CSGO and inject plaguecheat.dll
 ### Menu screenshot:
