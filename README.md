@@ -1,5 +1,5 @@
 # This is an archive for old CSGO cheats
-- Here you can find you favorite free cheat or cracked cheat
+- Here you can find your favorite free cheat/cracked cheat/paste
 # Currently on the list:
 - Legendware V3
 - LambdaHook V2
