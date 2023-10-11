@@ -2,8 +2,8 @@
 - Here you can find your favorite free cheat/cracked cheat/paste
 # How to play CSGO after the CS2 Update?
 - Go to your steam library
-- Right click counter-strike 2 and go to proprities
-- Go to betas and select "csgo_demo_viewer - 1.38.7.9"
+- Right click Counter-Strike 2 and go to proprities
+- Go to betas and select "csgo_legacy"
 # You can also find injectors here!
 - Extreme injector
 - CSGhost
